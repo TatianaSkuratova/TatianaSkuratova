@@ -37,7 +37,7 @@ src="https://user-images.githubusercontent.com/98715632/180439335-dbfacae5-cf35-
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/console.png" alt="bash" width="50" height="50"/> </a>
 <a  href="https://www.soapui.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/TatianaSkuratova/Group27_Ksendzov/blob/main/SoapUI-logo.png" alt="SOAP UI" width="150" height="50"/> </a>
-
+<a  href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TatianaSkuratova/Group27_Ksendzov/blob/main/charles.png" alt="Charles" width="150" height="50"/> </a>
 
 ## Character
 

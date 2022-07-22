@@ -28,11 +28,16 @@ src="https://img.icons8.com/fluency/344/linkedin.png" width="65"/></a>
 <a href="https://t.me/skuratova" target="blank"><img align="center" alt="Skuratova" height="50"
 src="https://user-images.githubusercontent.com/98715632/180439335-dbfacae5-cf35-44d7-8b12-cc43b2bfccfa.png" width="50"/></a><a target="_blank"/></a>
 
+
+
 ### Languages and Tools: ###
 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/console.png" alt="bash" width="50" height="50"/> </a>
+
 
 ## Character
 

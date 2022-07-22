@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋 I'm Tatiana Skuratova. I'm find a job Manual QA </h1>
+<h1 align="center">Hi 👋 I'm Tatiana Skuratova. </h1>
+
+<h1> I'm find a job Manual QA </h1>
 
 - 👩‍💻 Also I'm studing at **[Vadym Ksendzov](https://ksendzov.com/) QA course**
 

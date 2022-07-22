@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Github readme
+
 
 <h1 align="center">Hi 👋 I'm Tatiana Skuratova. I'm find a job Manual QA </h1>
 

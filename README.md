@@ -45,4 +45,4 @@ src="https://user-images.githubusercontent.com/98715632/180439335-dbfacae5-cf35-
 
 ## Character
 
-
+<div>I like interesting tasks and work in a team. I can easily find the information I need. I take criticism as a compliment and appreciate it very much.</div>

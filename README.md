@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋 I'm Tatiana Skuratova. </h1>
 
 
-- 👩‍💻 Also I'm studing at **[Vadym Ksendzov](https://ksendzov.com/) QA course**
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:skuratovats@gmail.com" target="_blank"><img align="center" alt="Tatiana Skuratova" height="65" 
